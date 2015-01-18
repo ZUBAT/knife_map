@@ -1,0 +1,18 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.3"
+		}
+		
+		"Notes"	"More info @ www.podval.pro"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/kmife_map.smx"
+		"Source"	"Path_SM/scripting/knife_map.sp"
+	}
+}
